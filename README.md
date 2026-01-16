@@ -7,7 +7,8 @@
   
 ## 2. Load asset FieldScene
   import project with Unity Hub, then open project
-  in asset/scene, find FieldScene, drag into Hierarchy
+  in assets/scenes, find FieldScene & Welcome, drag into Hierarchy
+  File -> Build Settings -> Add Open Scenes, with Check-Mark, set Welcome as 0 and FieldScene as 1
 
 ## 3. Play
   play with XBOX gamepad or keyboard
