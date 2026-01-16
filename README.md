@@ -1,3 +1,5 @@
+## [ FRC2026 Game Simulator ] for CKFS by Kevin Liao
+
 ## Quick Start
 
 ## 1. Install Unity 2023.22.2
