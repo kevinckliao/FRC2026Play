@@ -1,4 +1,4 @@
-## [ FRC2026 Game Simulator ] for CKHS by Kevin Liao
+[ FRC2026 Game Simulator ] for CKHS by Kevin Liao
 
 
 ## 1. Install Unity 2023.22.2
