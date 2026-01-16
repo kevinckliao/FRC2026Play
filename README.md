@@ -6,6 +6,8 @@
 
 ## 2. Load asset FieldScene
 
-    in asset/scene, find FieldScene, drag into Hierarchy
+import project with Unity Hub, the open project
+
+in asset/scene, find FieldScene, drag into Hierarchy
 
 ## 3. Play
